@@ -1,0 +1,7 @@
+.venv/
+.venv-tk/
+expenses.csv
+settings.json
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
